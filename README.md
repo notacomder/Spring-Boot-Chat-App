@@ -1,1 +1,1 @@
-# Spring boot chat application
+Just a basic implementation of the Spring Boot features.
